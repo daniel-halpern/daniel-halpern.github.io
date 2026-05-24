@@ -24,7 +24,8 @@ I've spent years working in video production, which has given me a practical und
 **Interests:** `Computer Vision`, `Signal Processing`, `Machine Learning`, `World History`, `Macroeconomics`, `Urban Planning`
 
 **Hobbies:**
-* Developing small, fun applications to make use of interesting technology, algorithms and techniques I've learned about
-* Applying outside interests such as filmmaking to approach challenges in computing
-* Experimenting with early emerging technologies such as LLMs
-* Videography and filmmaking, including producing films on urban history and local government issues.
+
+- Developing small, fun applications to make use of interesting technology, algorithms and techniques I've learned about
+- Applying outside interests such as filmmaking to approach challenges in computing
+- Experimenting with early emerging technologies such as LLMs
+- Videography and filmmaking, including producing films on urban history and local government issues.

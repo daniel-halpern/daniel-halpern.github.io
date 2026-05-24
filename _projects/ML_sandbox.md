@@ -25,9 +25,8 @@ The sequence so far, with more planned:
 3. Training dynamics (optimizers, learning rate schedules, regularization)
 4. CNNs on MNIST
 5. Representation learning — what the network's latent space actually looks like
-6. *(Planned)* RNNs and sequence models
-7. *(Planned)* Attention mechanisms and transformers
-8. *(Planned)* Mini GPT
+6. _(Planned)_ RNNs and sequence models
+7. _(Planned)_ Attention mechanisms and transformers
+8. _(Planned)_ Mini GPT
 
 The through-line is the idea that every architecture is solving the same problem of turning raw input into a useful representation, just with different assumptions about structure. A CNN bakes in spatial locality. An RNN bakes in sequential order. A transformer makes no assumptions and just learns which parts of the input to attend to.
-

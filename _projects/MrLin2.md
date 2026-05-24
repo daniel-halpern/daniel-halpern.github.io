@@ -17,4 +17,3 @@ The messiest part was getting Wolfram Alpha to accept the input. ChatGPT does no
 This was built before the ChatGPT API existed. Accessing GPT required `revChatGPT`, a library that drove a headless Chrome browser to scrape the ChatGPT web interface using Selenium. It worked, but it was fragile: any session timeout or UI change from OpenAI would break it. The whole thing became much cleaner once the API launched, but version 0 running through chromedriver was how it started.
 
 Shortly after we finished, OpenAI released a Wolfram Alpha custom GPT that did essentially the same thing — combining language understanding from ChatGPT with exact computation from Wolfram Alpha. Our effort was not exactly in vain, but the timing was not great.
-
