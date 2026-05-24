@@ -31,4 +31,3 @@ The sequence so far, with more planned:
 
 The through-line is the idea that every architecture is solving the same problem of turning raw input into a useful representation, just with different assumptions about structure. A CNN bakes in spatial locality. An RNN bakes in sequential order. A transformer makes no assumptions and just learns which parts of the input to attend to.
 
-[View on GitHub](https://github.com/daniel-halpern/ML-sandbox)

@@ -29,5 +29,3 @@ The trace above shows what a clean single-step photobleach looks like: steady in
 <div style="text-align: center; margin: 1.5rem 0;">
   <img src="/assets/img/GLIMPSE_analysis.png" alt="GLIMPSE analysis output with molecular brightness and step histograms" style="max-width: 680px; width: 100%;">
 </div>
-
-[View on GitHub](https://github.com/LabGradinaru/GLIMPSE)

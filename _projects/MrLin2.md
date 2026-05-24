@@ -18,4 +18,3 @@ This was built before the ChatGPT API existed. Accessing GPT required `revChatGP
 
 Shortly after we finished, OpenAI released a Wolfram Alpha custom GPT that did essentially the same thing — combining language understanding from ChatGPT with exact computation from Wolfram Alpha. Our effort was not exactly in vain, but the timing was not great.
 
-[View on GitHub](https://github.com/ELROSTEM/MrLin2.0)
