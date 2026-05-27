@@ -16,4 +16,4 @@ Built at DeltaHacks, Costudify solves a simple but annoying problem: finding a t
 
 The backend is Flask with CSV-based storage. ICS files are parsed using the `icalendar` library, which extracts course codes, days, and time blocks and flattens them into a shared schedule table. The availability view is computed by inverting each student's busy blocks across the week and then finding intersections, so green slots on the grid represent times where the most people are simultaneously free.
 
-[View on GitHub](https://github.com/daniel-halpern/deltahacks-test)
+[View on GitHub](https://github.com/jeodn/deltahacks-test)

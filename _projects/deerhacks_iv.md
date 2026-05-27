@@ -18,4 +18,4 @@ The map shows explored paths in green and unvisited routes in red, and calculate
 
 The stack is React on the frontend, Flask on the backend, and Leaflet.js with MapTiler for the mapping layer. The trickiest part was the path calculation system since MapTiler's documentation for road and path network data was harder to work with than expected.
 
-[View on GitHub](https://github.com/daniel-halpern/deerhacks-iv)
+[View on GitHub](https://github.com/freq1062/deerhacks-iv)
