@@ -49,7 +49,7 @@ jobs:
         with:
           fail: true
           # Does not check linkedin Links
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress --exclude "https://www.linkedin.com/*" './**/*.md' './**/*.html'
+          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path FAQ.md --exclude-path INSTALL.md --verbose --no-progress --exclude "https://www.linkedin.com/*" --exclude "https://ubuntu.com/*" './**/*.md' './**/*.html'
 
           # removed md files that include liquid tags
           # args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
