@@ -1,7 +1,7 @@
 ---
 layout: page
 title: gratitude
-nav: true
+nav: false
 nav_order: 8
 permalink: /gratitude/
 ---
